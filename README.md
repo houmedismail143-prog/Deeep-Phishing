@@ -1,2 +1,2 @@
 # Deeep-Phishing
-Projet académique réalisé dans le cadre du cours, visant à développer des compétences pratiques et analytiques en [préciser le domaine, ex. cybersécurité / machine learning].
+Projet académique réalisé dans le cadre du cours , visant à développer des compétences pratiques et analytiques en [cybersécurité / machine learning].
